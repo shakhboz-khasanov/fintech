@@ -40,5 +40,5 @@
   "cv_auc_mean": 0.993,
   "cv_auc_std": 0.0014,
   "approval_rate": 0.3713,
-  "trained_on": "../data/sarfai_datasets.xlsx"
+  "trained_on": "C:\\Users\\User\\Desktop\\ML lessons\\fintech\\backend\\ml\\..\\data\\sarfai_datasets.xlsx"
 }
